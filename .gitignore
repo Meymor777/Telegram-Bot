@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TelegramBot/.vs/TelegramBot
+/TelegramBot/TelegramBot/obj
+/TelegramBot/.vs/ProjectEvaluation
+/TelegramBot/ShowExchangeRateBot.Test/bin/Debug/net8.0
+/TelegramBot/ShowExchangeRateBot.Test/obj
+/TelegramBot/TelegramBot/bin/Debug/net8.0
